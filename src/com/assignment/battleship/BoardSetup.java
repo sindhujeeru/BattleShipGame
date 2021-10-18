@@ -144,7 +144,6 @@ public class BoardSetup {
 			printBoard(player1.getEnemyBoard().getBoard());
 		}
 		
-		//System.out.println(player1.getPlayerShipsStatus()+" "+player2.getPlayerShipsStatus());
 		
 		player1Playing = !player1Playing;
 		
